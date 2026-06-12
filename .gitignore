@@ -1,0 +1,12 @@
+# 忽略所有
+*.py
+*.jsonl
+*.csv
+*.json
+*.txt
+*.db
+*.md
+
+# 只上传 chunks
+!chunks/
+!chunks/**
